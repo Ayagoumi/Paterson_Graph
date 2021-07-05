@@ -1,4 +1,4 @@
-![Uploading Desktop - 1.png…]()
+![Alt text](https://github.com/Ayagoumi/Paterson_Graph/blob/master/src/Assets/Paterson.svg?raw=true "Title")
 
 ### Paterson Graph
 
