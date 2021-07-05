@@ -1,3 +1,5 @@
+# Paterson Graph
+
 This project was built using 
 
 <p align="center">
