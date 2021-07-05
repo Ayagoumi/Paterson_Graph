@@ -1,3 +1,5 @@
+![Uploading Desktop - 1.png…]()
+
 ### Paterson Graph
 
 The Petersen graph is an undirected graph with 10 vertices and 15 edges. It is a small graph that serves as a useful example and counterexample for many problems in graph theory
